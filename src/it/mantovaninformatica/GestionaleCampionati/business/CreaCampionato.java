@@ -1,4 +1,4 @@
-package it.mantovaninformatica.GestionaleCampionato.business;
+package it.mantovaninformatica.GestionaleCampionati.business;
 
 import java.util.ArrayList;
 
