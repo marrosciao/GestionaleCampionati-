@@ -1,6 +1,7 @@
 package it.mantovaninformatica.GestionaleCampionati.business;
 
 import it.mantovaninformatica.GestionaleCampionati.view.finestra;
+import it.mantovaninformatica.GestionaleCampionati.view.finestra;
 
 public class registrazioneIOT {
 
