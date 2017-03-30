@@ -7,10 +7,12 @@ import it.mantovaninformatica.GestionaleCampionati.model.Circuito;
 import it.mantovaninformatica.GestionaleCampionati.model.Gara;
 import it.mantovaninformatica.GestionaleCampionati.model.Organizzatore;
 import it.mantovaninformatica.GestionaleCampionati.model.Pilota;
+import it.mantovaninformatica.GestionaleCampionati.view.finestra;
 
 public class CreaCampionato {
 
 	public static void main(String[] args) {
+		
 		
 		Organizzatore o1= new Organizzatore("Futura","Corse");
 		/*si procedi crea campionato*/
