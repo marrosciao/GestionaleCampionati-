@@ -31,7 +31,7 @@ public class finestra extends JFrame {
 		contFinestra.add(pSecond, "2");
 		cl.show(contFinestra, "1");
 		this.show();
-		this.pack();
+		this.setSize(800,400);
 
 		registrazioneBtn.addActionListener(new ActionListener(){
 
